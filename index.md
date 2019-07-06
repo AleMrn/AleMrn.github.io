@@ -1,3 +1,6 @@
+# Inicio
+  
+  Ingeniero Informático recien titulado en el itinerario de ingenieria de computadores.
 
 # Educación
 
