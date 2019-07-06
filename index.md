@@ -11,7 +11,8 @@
 # Experiencia profesional 
 
 #### Universidad de Huelva - Facultad de Humanidades
-
+> Monitorización de los sistemas.
+> Desarrollo y diseño de la página web.
 
 
 # Proyectos personales
