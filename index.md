@@ -4,6 +4,9 @@
 
 # Educación
 
+### Universidad de Huelva ###
+>Ingeniería Informática-7
+>Itinerario: Ingeniería de Computadores
 
 # Experiencia profesional 
 
