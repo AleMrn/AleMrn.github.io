@@ -6,13 +6,9 @@
 
 #### Universidad de Huelva - Facultad de Humanidades
 
->
-
-### 
 
 
 # Proyectos personales
-
 
 
 # Idiomas
