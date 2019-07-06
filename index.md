@@ -1,6 +1,6 @@
 # Inicio
   
-  Ingeniero Informático recien titulado en el itinerario de ingenieria de computadores.
+  Ingeniero Informático recien titulado en el itinerario de ingenieria de computadores en la Universidad de Huelva.
 
 # Educación
 
@@ -10,13 +10,46 @@
 
 # Experiencia profesional 
 
-#### Universidad de Huelva - Facultad de Humanidades
+### Ingeniero Informático en practicas
+##### Universidad de Huelva - Facultad de Humanidades
+###### Octubre/2017-Enero/2018
 > Monitorización de los sistemas.
 > Desarrollo y diseño de la página web.
 
+### Ingeniero Informático en practicas
+#### Universidad de Huelva - Facultad de Humanidades
+###### Marzo/2017-Julio/2017
+> Monitorización de los sistemas.
+> Desarrollo y diseño de la página web.
+
+### Ingeniero Informático en practicas
+#### Universidad de Huelva - Facultad de Humanidades
+###### Marzo/2017-Julio/2017
+> Monitorización de los sistemas.
+> Desarrollo y diseño de la página web.
+
+### Programador Web
+#### Malagazine.info
+###### Julio/2014-Septiembre/2014
+> Programación Web tratando el diseño y desarrollo de los diferentes componentes utilizado: HTML & CSS.
 
 # Proyectos personales
 
+### TFG: Monitorización de la salud personal mediante prenda inteligente. - 10
+> Diseño y desarrollo de un sistema electrónico para la recolección de diferentes señales cerebrales, así como de sus frecuencias, utilizando una placa de desarrollo Teensy.
+> Desarrollo y diseño de una aplicación en Python para la visualización de dichas señales.
+
+# Lenguajes de programación
+
+* C/C++
+* Python
+* Latex
+* Java
+* Matlab
+* Ensamblador
+* HTML/CSS
+* PHP
+* Other
 
 # Idiomas
 
@@ -25,66 +58,3 @@
 | Ingles       | B2      | 
 | Español      | Nativo  |
 
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
