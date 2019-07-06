@@ -4,7 +4,7 @@
 
 # Experiencia profesional 
 
-## Universidad de Huelva - Facultad de Humanidades
+#### Universidad de Huelva - Facultad de Humanidades
 
 >
 
@@ -17,15 +17,10 @@
 
 # Idiomas
 
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Idioma       | Nivel   |
+|:-------------|:--------|
+| Ingles       | B2      | 
+| Español      | Nativo  |
 
 ### There's a horizontal rule below this.
 
